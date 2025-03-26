@@ -1,2 +1,6 @@
 ## Ejemplo Card
-![la Tarjeta](z_recursos/card.png)
+![la Tarjeta](card.jpg)
+
+## Ejemplo Dialogo De ALerta
+![Dialogo](dialogo.png)
+![la Tarjeta](dialogor.png)
